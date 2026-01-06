@@ -15,17 +15,11 @@ This project focuses on detecting and analyzing similarities between flowcharts 
 - Modeled flowcharts using **graph-based data structures**, where nodes represent flowchart elements and edges represent relationships and flow.
 - Applied **graph isomorphism techniques** to compare flowcharts based on node similarity, edge relationships, spatial layout, and textual content.
 
-## Research Contribution
-- Authored a research paper detailing the system’s design, implementation, and evaluation, highlighting its effectiveness in flowchart similarity detection.
-
 ## Technologies Used
 - YOLOv8
-- OCR
+- EasyOCR
 - Graph-based algorithms
 - Python (for model training and analysis)
 
-## Applications
-- Academic flowchart comparison
-- Automated grading systems
-- Plagiarism detection
-- Process and workflow analysis
+## Research Contribution
+- Authored a research paper detailing the system’s design, implementation, and evaluation, highlighting its effectiveness in flowchart similarity detection.
